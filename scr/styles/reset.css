@@ -1,0 +1,6 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*tamanho da caixa é de borda a borda - uma ponta a outra */
+    font-family: "Press Start 2P", cursive;
+}
