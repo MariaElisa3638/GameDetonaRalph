@@ -33,9 +33,9 @@
 
 .enemy {
     background-image: url("../images/ralph.png");
-    background-size: 100%; /* Ajuste o valor para aumentar ou diminuir o zoom */
-    background-position: center; /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-size: 100%; 
+    background-position: center; 
+    background-repeat: no-repeat;
     background-color: #11e29d;
 }
 
